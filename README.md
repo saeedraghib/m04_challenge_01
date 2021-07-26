@@ -23,7 +23,11 @@ The one dataframe, containing the file data was then further cleaned and prepare
 <br>
 
 ## **Phase 3: Analyze the Peformance**<br>
-The 4 funds data was analysed against the S&P 500, to see hoe they perfomed against afore mentioned index fund.
+The 4 fund's data was analysed against the S&P 500, to see hoe they perfomed against afore mentioned index fund.
+<br>
+
+## **Phase 4: Analyze the Volatility**<br>
+The 4 funds were analyzed against S&P 500 as well as against each other.
 <br>
 
 ---
