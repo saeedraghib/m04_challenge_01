@@ -22,8 +22,8 @@ The one dataframe, containing the file data was then further cleaned and prepare
 2. *"NaN"* for any "Daily Return calculation was also removed.
 <br>
 
-## **Phase 3: Analyze the Data**<br>
-Phase 3 completed to step4.6
+## **Phase 3: Analyze the Peformance**<br>
+The 4 funds data was analysed against the S&P 500, to see hoe they perfomed against afore mentioned index fund.
 <br>
 
 ---
