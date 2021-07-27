@@ -30,6 +30,21 @@ The 4 fund's data was analysed against the S&P 500, to see hoe they perfomed aga
 The 4 funds were analyzed against S&P 500 as well as against each other.
 <br>
 
+## **Phase 5: Analyze the Risk**<br>
+The 4 funds were analyzed against S&P 500 as well as against each other.
+<br>
+
+## **Phase 6: Analyze the Risk-Return Profile**<br>
+The 4 funds were analyzed against S&P 500 as well as against each other.
+Sharpe ratios were calculated.
+<br>
+
+## **Phase 7: Analyze the portfolio to consider Portfolio Diversification**<br>
+Based on previous assessment, 2 portfolios were selected for further analysis.
+* Berkshire Hathaway
+* Tiger Global Management LLC
+Based on further analysis the portfolio that is being recommended is Berkshire Hathaway.
+<br>
 ---
 
 ## Technologies
@@ -51,7 +66,7 @@ Matplotlib is a plotting library for the Python programming language and its num
 ## Usage
 
 In order to run the program, type the following at the terminal prompt:
-* ### python sr_crypto_arbitrage.ipynb
+* ### python sr_risk_return_analysis.ipynb
 
 ---
 
